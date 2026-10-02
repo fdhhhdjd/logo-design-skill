@@ -1,0 +1,10 @@
+{
+  "name": "logo-design",
+  "description": "Thiết kế logo chuyên nghiệp bằng SVG: brief -> concept -> dựng SVG đen-trước -> tinh chỉnh quang học -> test (16px/1 màu/đảo nền) -> trình bày -> xuất biến thể + guideline.",
+  "version": "1.0.0",
+  "author": { "name": "fdhhhdjd", "url": "https://github.com/fdhhhdjd" },
+  "homepage": "https://github.com/fdhhhdjd/logo-design-skill",
+  "repository": "https://github.com/fdhhhdjd/logo-design-skill",
+  "license": "MIT",
+  "keywords": ["logo", "branding", "identity", "svg", "design"]
+}
